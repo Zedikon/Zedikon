@@ -1,2 +1,1 @@
-- 👋 Добро пожаловать!
-Я делаю всякую туфту на python
+- 👋 Welcome to my github page! 
